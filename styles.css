@@ -35,12 +35,6 @@ body{
 	margin:5px;
 	height:350px;
 	border-radius:10px;
-	justify-content:center;
-	align-items:center;
-	align-content:center;
-	align-items:center;
-	place-items:center;
-	place-content:center;
 }
 img{
 	width:140px;
